@@ -1,0 +1,131 @@
+{
+  "ui_type" : "basic_table",
+  "noun" : "Arrestee",
+  "category" : "Arrestee demographic",
+  "title" : "Arrestee Race",
+  "short_title" : "Race",
+  "ui_restriction" : null,
+  "keys" : [ "Asian", "Native Hawaiian", "Black or African American", "American Indian or Alaska Native", "White", "Unknown" ],
+  "data" : [ {
+    "value" : 369,
+    "data_year" : 2017,
+    "month_num" : 0,
+    "key" : "Asian"
+  }, {
+    "value" : 320,
+    "data_year" : 2018,
+    "month_num" : 0,
+    "key" : "Asian"
+  }, {
+    "value" : 321,
+    "data_year" : 2019,
+    "month_num" : 0,
+    "key" : "Asian"
+  }, {
+    "value" : 265,
+    "data_year" : 2020,
+    "month_num" : 0,
+    "key" : "Asian"
+  }, {
+    "value" : 11,
+    "data_year" : 2017,
+    "month_num" : 0,
+    "key" : "Native Hawaiian"
+  }, {
+    "value" : 16,
+    "data_year" : 2018,
+    "month_num" : 0,
+    "key" : "Native Hawaiian"
+  }, {
+    "value" : 17,
+    "data_year" : 2019,
+    "month_num" : 0,
+    "key" : "Native Hawaiian"
+  }, {
+    "value" : 7,
+    "data_year" : 2020,
+    "month_num" : 0,
+    "key" : "Native Hawaiian"
+  }, {
+    "value" : 2566,
+    "data_year" : 2017,
+    "month_num" : 0,
+    "key" : "Black or African American"
+  }, {
+    "value" : 2507,
+    "data_year" : 2018,
+    "month_num" : 0,
+    "key" : "Black or African American"
+  }, {
+    "value" : 2468,
+    "data_year" : 2019,
+    "month_num" : 0,
+    "key" : "Black or African American"
+  }, {
+    "value" : 2084,
+    "data_year" : 2020,
+    "month_num" : 0,
+    "key" : "Black or African American"
+  }, {
+    "value" : 57,
+    "data_year" : 2017,
+    "month_num" : 0,
+    "key" : "American Indian or Alaska Native"
+  }, {
+    "value" : 59,
+    "data_year" : 2018,
+    "month_num" : 0,
+    "key" : "American Indian or Alaska Native"
+  }, {
+    "value" : 36,
+    "data_year" : 2019,
+    "month_num" : 0,
+    "key" : "American Indian or Alaska Native"
+  }, {
+    "value" : 48,
+    "data_year" : 2020,
+    "month_num" : 0,
+    "key" : "American Indian or Alaska Native"
+  }, {
+    "value" : 45485,
+    "data_year" : 2017,
+    "month_num" : 0,
+    "key" : "White"
+  }, {
+    "value" : 43472,
+    "data_year" : 2018,
+    "month_num" : 0,
+    "key" : "White"
+  }, {
+    "value" : 42839,
+    "data_year" : 2019,
+    "month_num" : 0,
+    "key" : "White"
+  }, {
+    "value" : 32780,
+    "data_year" : 2020,
+    "month_num" : 0,
+    "key" : "White"
+  }, {
+    "value" : 396,
+    "data_year" : 2017,
+    "month_num" : 0,
+    "key" : "Unknown"
+  }, {
+    "value" : 549,
+    "data_year" : 2018,
+    "month_num" : 0,
+    "key" : "Unknown"
+  }, {
+    "value" : 520,
+    "data_year" : 2019,
+    "month_num" : 0,
+    "key" : "Unknown"
+  }, {
+    "value" : 370,
+    "data_year" : 2020,
+    "month_num" : 0,
+    "key" : "Unknown"
+  } ],
+  "precise_data" : [ ]
+}
